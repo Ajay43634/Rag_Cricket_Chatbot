@@ -1,0 +1,51 @@
+Swing bowling is a bowling technique in cricket, in which the ball is made to curve through the air. This is in the hope that the change in the ball's flight path will deceive the batter and cause them to play the ball incorrectly. A bowler who uses this technique is called a swing bowler. Swing bowling is generally classed as a type of fast bowling.
+A swing bowling delivery is either an inswinger, where the ball curves in towards the batter, or an outswinger, where the ball curves away from the batter. A swing bowler often bowls a mixture of inswingers and outswingers (as well as other non-swinging types of delivery), by changing how they hold the ball. To make the ball swing, a bowling side continually polishes one side of the ball by applying sweat to it, as well as rubbing it against their clothing to shine it, while allowing the opposite side to become gradually more rough through the course of play. 
+Conventional swing, also called orthodox swing, occurs when the ball is relatively new, before the shiny side becomes worn over the course of play. The airflow over the rough and shiny sides cause it to move in flight towards the rough side and away from the shiny side. Swing bowlers often use a subtly altered grip on the ball to accentuate this effect. Reverse swing is when it swings in the opposite direction - towards the shiny side. This occurs as the ball becomes more worn, and is rarer.
+As swing bowling is heavily dependent on the condition of the ball, a number of ball tampering controversies have been related to it. This is where teams have allegedly tried to alter the wear of the ball illegally using materials such as sandpaper, to produce additional swing. Examples of such incidents are the 2006 ball-tampering controversy and the 2018 Australian ball-tampering scandal.
+
+History
+Theory
+The purpose of swing bowling is to get the cricket ball to deviate sideways as it moves through the air towards or away from the batter. To do this, the bowler makes use of six factors:
+
+The raised seam of the cricket ball
+The angle of the seam to the direction of travel
+The wear and tear on the ball
+The polishing liquid used on the ball
+The speed of the delivery
+The bowler's action
+Asymmetry of the ball is encouraged by the polishing of one side of the ball by members of the fielding team, while allowing the opposite side to deteriorate through wear and tear. With time, this produces a difference in the aerodynamic properties of the two sides.
+Both turbulent and laminar airflow contribute to swing. Air in laminar flow separates from the surface of the ball earlier than air in turbulent flow, so that the separation point moves toward the front of the ball on the laminar side. On the turbulent flow side it remains attached longer, separating towards the rear and steering the wake to one side, generating a lift force.
+
+Conventional swing
+Typically, a swing bowler aligns the seam and the sides of the ball to reinforce the swing effect. This can be done in two ways:
+
+Outswinger: An outswinger to a right-handed batter can be bowled by aligning the seam slightly to the left towards the slips and placing the roughened side of the ball on the left. To extract consistent swing, a bowler can also rotate their wrist toward the slips while keeping their arm straight. To a right-handed batter, this results in the ball moving away to the off side while in flight, usually outwards from their body. James Anderson, Malcolm Marshall, Bhuvneshwar Kumar, Richard Hadlee, Kapil Dev, Tim Southee, Mitchell Starc, Dominic Cork, Courtney Walsh and Dale Steyn have been great exponents of the outswingers.
+Inswinger: An inswinger to a right-handed batter can be bowled by aligning the seam slightly to the right and placing the roughened side of the ball on the right. To extract consistent swing, a bowler can also rotate or "open up" their wrist towards leg slip. To a right-handed batter, this results in the ball moving in to the leg side while in flight, usually inwards towards their body.
+The curvature of swing deliveries can make them difficult for a batter to hit with their bat. Typically, bowlers more commonly bowl outswingers, as they tend to move away from the batter, meaning they have to "chase" the ball to hit it. Hitting away from the batter's body is dangerous, as it leaves a gap between the bat and body through which the ball may travel to hit the wicket. Also, if the batter misjudges the amount of swing, they can hit the ball with an edge of the bat. An inside edge can ricochet on to the wicket, resulting in them being out bowled, while an outside edge can fly to the wicket-keeper or slip fielders for a catch.
+There has been a distinct lack of left-arm swing bowlers in the game. Some of the most famous left-arm bowlers were Pakistan's Wasim Akram, Mohammad Amir and Shaheen Afridi, India's Zaheer Khan and Irfan Pathan, Australia's Alan Davidson, Mitchell Johnson and Mitchell Starc, Sri Lanka's Chaminda Vaas and New Zealand's Trent Boult.
+When the ball is new the seam is angled to one side, back-spinning the ball with the fingers for stability in flight. This causes the boundary layer on the side of the seam to become turbulent and separate later than the laminar flow on the other side, making the ball swerve.
+
+Reverse swing
+Normal swing occurs mostly when the ball is fairly new. As it wears more, the front face is rough enough to make the flow turbulent from the beginning. The forward seam on the shiny side triggers a separation of the flow earlier than on the rough side, so when the ball becomes very old – around 50 or more overs old – it begins to swing towards its shiny side. It is mainly helpful for bowlers in Test matches. This is known as reverse swing, meaning that a natural outswinger will become an inswinger and vice versa. However, the new ball may reverse its trajectory if the speed is high (more than 90 mph (around 140 km/h)). This is also called contrast swing or reverse swing. 
+Reverse swing tends to be stronger than normal swing, and to occur late in the ball's trajectory. This gives it a very different character from normal swing, and because batters experience it less often, they generally find it much more difficult to defend against. It is also possible for a ball to swing normally in its early flight, and then to alter its swing as it approaches the batter. This can be done in two ways one for the ball to reverse its direction of swing, giving it an 'S' trajectory: the other is for it to adopt a more pronounced swing in the same direction in which the swing is already curving; either alteration can be devastating for the batter. In the first instance, they are already committed to playing the swing one way, which will be the wrong way to address swing which is suddenly coming from the opposite direction: in the second instance, their stance will be one which is appropriate for the degree, or extent, of the expected swing, and which could suddenly leave them vulnerable to LBW, being caught behind, or bowled. Two consecutive deliveries from Wasim Akram, one of each type, were considered to be the turning point of the 1992 World Cup Final.
+Pioneers and notable practitioners of reverse swing have mostly been Pakistani fast bowlers. In the early days of reverse swing, Pakistani bowlers were accused of ball tampering to achieve the conditions of the ball that allow reverse swing. According to the ex-chairman of the Pakistan cricket board, Shaharyar Khan, reverse swing was invented by Saleem Mir, who played for the Punjab Cricket Club in Lahore during the late 1960s and taught it to his team-mate Sarfraz Nawaz. Sarfraz Nawaz introduced reverse swing into international cricket during the late 1970s, and passed their knowledge on to their team-mate Imran Khan, who in turn taught the duo of Wasim Akram and Waqar Younis. The English pair of Andrew Flintoff and Simon Jones, having been taught by Troy Cooley and the Indian bowlers like Zaheer Khan and Ajit Agarkar, were also well known for the ability to reverse swing, among many others. Bowlers try to disguise the direction of reverse swing by running up starting with the opposite hand before switching hands and covering the ball for as long as possible before release. Neil Wagner utilizes this to show the ball is reversing, but disguises the direction of swing.
+
+Playing swing bowling
+Firstly, a batter needs good eye reflexes which are considered to be a key skill when facing swing bowling. Secondly, a batter often needs to anticipate beforehand what the ball will do and adjust accordingly to play swing bowling. This can be done by observing the bowler's grip and action (which may have a marked difference depending on which type of swinger is to be delivered), by observing the field set, which may depend on the types of deliveries expected (as a rule outswingers will have more slips assigned) or by means of prior knowledge of the bowler; many can bowl or are proficient in only one type of swing. Traditional methods include the batter playing the ball as late as possible, and not playing away from the body. Other effective measures for combating swing bowling include standing well outside the crease, thus giving the ball less time to swing; and guessing the direction of swing based on the seam position observed in the ball's flight.
+
+Ball tampering controversies
+Controversy regarding reverse swing has never left modern cricket, as the Pakistani team was accused of ball tampering by the Australian umpire Darrell Hair during the fourth test against England in 2006 when the ball began to reverse swing after the 50th over. His co-umpire Billy Doctrove supported him. A hearing subsequently found that there was insufficient evidence to convict anyone of ball tampering.
+
+See also
+Cricket terminology
+Seam bowling
+Slider and other Breaking ball pitches in Baseball
+
+References
+External links
+"The Science of Swing". Archived from the original on 5 February 2007.
+Excerpt from DG Bradman's The Art of Cricket describing swing bowling.
+The Basics of Swing bowling explained by M.R.Baig on Cricketfundas.com
+Mysterious art of reverse swing baffles even cricket experts
+Reverse swing or super swing?
+The science of swing bowling

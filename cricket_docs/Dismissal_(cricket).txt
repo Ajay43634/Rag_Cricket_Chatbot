@@ -1,0 +1,86 @@
+In cricket, a dismissal occurs when a batsman's innings is brought to an end by the opposing team. Other terms used are the batsman being out, the batting side losing a wicket, and the fielding side (and often the bowler) taking a wicket. The ball becomes dead (meaning that no further runs can be scored off that delivery), and the dismissed batsman must leave the field of play for the rest of their team's innings, to be replaced by a team-mate. A team's innings ends if ten of the eleven team members are dismissed. Players bat in pairs so, when only one batsman remains who can be not out, it is not possible for the team to bat any longer. This is known as dismissing or bowling out the batting team, who are said to be all out.
+The most common methods of dismissing a batsman are (in descending order of frequency): caught, bowled, leg before wicket, run out, and stumped. Of these, the leg before wicket and stumped methods of dismissal can be seen as related to, or being special cases of, the bowled and run out methods of dismissal respectively.
+Most methods of dismissal do not apply on an illegal delivery (i.e. a wide or no-ball) or on the free hit delivery that follows a no-ball in certain competitions. Among the common methods of dismissal, only the "run out" dismissal can occur during any type of delivery.
+
+Purpose
+Once dismissed, a batsman cannot score any more runs in that innings; thus, dismissing batsmen is a way for the fielding side to control the number of runs scored in an innings, and prevent the batting side from either achieving their target score or posting a large total for the fielding side to follow in the next innings. Additionally, in Test and first-class cricket, it is usually necessary for the side fielding last to dismiss ten players of the opposing team in their final innings to achieve victory (unless one or more of the batsmen have retired hurt or absent and are unable to take the field).
+
+Adjudication
+By convention, dismissal decisions are handled primarily by the players; thus, if the dismissal is obvious the batsman will voluntarily leave the field without the umpire needing to dismiss them. If the batsman and fielding side disagree about a dismissal then the fielding side must appeal to the umpire, who will then decide whether the batsman is out. In competitive cricket, many difficult catching and LBW decisions will be left to the umpire; if a batter acknowledges that they are out in such cases and departs without waiting for the umpire's decision it is known as "walking", and regarded as an honourable but controversial act.
+If the umpire believes they have incorrectly dismissed a batsman, they may recall them to the crease if they have not already left the field of play. An example of this was in the 2007 Lord's test match between England and India when Kevin Pietersen was initially given out caught behind, but was recalled when television replays showed that the ball had bounced before being taken by Mahendra Singh Dhoni.
+
+Methods of dismissal
+A batter can be dismissed in a number of ways, the most common being bowled, caught, leg before wicket (LBW), run out and stumped. An analysis of Test match dismissals between 1877 and 2012 found that 98.2% of the 63,584 Test match dismissals in this period were one of these five types. Much rarer were retired, hit the ball twice, hit wicket, handled the ball/obstructing the field, and timed out.
+
+As it is possible to dismiss the non-striker, and possible to dismiss the striker from a wide (which does not count as a delivery for the batter), this means a batter can be dismissed without facing a single delivery. This is sometimes known as a diamond duck.
+Len Hutton, Desmond Haynes, and Steve Waugh were each dismissed in seven different ways over the course of their test career.
+
+Common methods of dismissal
+Law 32: Bowled
+If a bowler's legitimate (i.e. not a No-ball) delivery hits the wicket and puts it down, the striker (the batter facing the bowler) is out. The ball can either have struck the stumps directly, or have been deflected off the bat or body of the batter. However, the batter is not Bowled if the ball is touched by any other player or umpire before hitting the stumps.
+Bowled takes precedence over all other methods of dismissal. What this means is, if a batter could be given out both Bowled and also for another reason, then the other reason is disregarded, and the batter is out Bowled.
+Between 1877 and 2012, this method accounted for 21.4% of all Test match dismissals.
+
+Law 33: Caught
+If the batter hits the ball, from a legitimate delivery (i.e. not a No-Ball), with the bat (or with the glove when the glove is in contact with the bat) and the ball is caught by the bowler or a fielder before it hits the ground, then the striker is out.
+"Caught behind" (an unofficial term) indicates that a player was caught by the wicket-keeper, or less commonly by the slips. "Caught and bowled" indicates the bowler also took the catch.
+Caught takes precedence over all other methods of dismissal except Bowled. What this means is, if a batter could be given out both Caught and also for another reason (except Bowled), then the other reason is disregarded, and the batter is out Caught.
+Between 1877 and 2012, this method accounted for 56.9% of all Test match dismissals, with 40.6% caught by fielders, and 16.3% caught by the wicket-keeper.
+
+Law 36: Leg before wicket (lbw)
+If a bowler's legitimate (i.e., not a No-ball) delivery strikes any part of the batter (not necessarily the leg), without first touching the bat (or glove holding the bat), and, in the umpire's judgement, the ball would have hit the wicket but for this interception, then the striker is out. There are also further criteria that must be met, including where the ball pitched, whether the ball hit the batter in line with the wickets, and whether the batter was attempting to hit the ball, and these have changed over time.
+Between 1877 and 2012, this method accounted for 14.3% of all Test match dismissals.
+
+Law 38: Run out
+A batter is Run out if at any time while the ball is in play, the wicket in the ground closest to them is fairly put down by the opposing side while no part of the batter's bat or body is grounded behind the popping crease.
+This usually happens while the batters are running between the wickets, attempting to score a run. Either the striker or non-striker can be Run out. The batter nearest the safe territory of the wicket that has been put down, but not actually in safe territory, is out. On the line is considered as out; frequently it is a close call whether or not a batter gained their ground before the bails were removed, with the decision referred to the Decision Review System.
+The difference between stumped and run out is that the wicket-keeper may stump a batter who goes too far forward to play the ball (assuming they are not attempting a run), whilst any fielder, including the keeper, may run out a batter who goes too far for any other purpose, including for taking a run.
+A special form of run out is when the batter at the non-striker's end attempts to gain an advantage by leaving the crease before the next ball has been bowled (a common practice known as "backing up", but against the laws of cricket). The bowler may then dislodge the bails at their end without completing the run-up and dismiss the batter. This form of run-out is sometimes called the Mankad (the dismissed batter is said to have been "Mankaded"), in reference to Vinoo Mankad, the first bowler to dismiss a batter in this manner in a Test match, running out Bill Brown in 1947. With changes in the Laws of Cricket, a bowler cannot Mankad a batter once they reach the point in their delivery where they would normally release the ball. It is considered good etiquette to warn a batter that he is leaving their crease early, before attempting a Mankad run out on a subsequent ball. In 2022, the ICC moved this form of dismissal from the 'Unfair Play' section of the Laws of the Game to the normal 'Run Out' section.
+A run out cannot occur if no fielder has touched the ball. As such, if a batter plays a straight drive which breaks the non-striker's stumps whilst they are outside their crease, they are not out. However, if a fielder (usually the bowler, in this case) touches the ball at all before it breaks the stumps at the non-striker's end, then it is a run out, even if the fielder never has any control of the ball.
+Between 1877 and 2012, this method accounted for 3.5% of all Test match dismissals.
+
+Law 39: Stumped
+If the striker steps in front of the crease to play the ball, leaving no part of their body or the bat on the ground behind the crease, and the wicket-keeper is able to put down the wicket with the ball, then the striker is out. A stumping is most likely to be effected off slow bowling, or (less frequently) medium-paced bowling when the wicket-keeper is standing directly behind the stumps. As wicket-keepers stand several yards back from the stumps to fast bowlers, stumpings are hardly ever effected off fast bowlers. The ball can bounce off a keeper (but not external non-usual wicketkeeping protective equipment, like a helmet) and break the stumps and still be considered a stumping.
+Stumped takes precedence over Run out. What this means is, if a batter could be given out both Stumped and Run out, then Run out is disregarded, and the batter is out Stumped.
+Between 1877 and 2012, this method accounted for 2.0% of all Test match dismissals.
+
+Rare methods of dismissal
+Law 25.4: Retired
+If any batter leaves the field of play without the Umpire's consent for any reason other than injury or incapacity, they may resume the innings only with the consent of the opposing captain. If they fail to resume their innings, they are out. For the purposes of calculating a batting average, retired out is considered a dismissal.
+Only two players in Test history have ever been given out in this manner: Marvan Atapattu (for 201) and Mahela Jayawardene (for 150), both in the same innings playing for Sri Lanka against Bangladesh in September 2001. Apparently, this was done in order to give the other players batting practice, but was considered unsporting and drew criticism. In May 1983, Gordon Greenidge of the West Indies retired out on 154 to visit his daughter, who was ill and who died two days later; he was subsequently judged to have retired not out, the only such decision in Test history.
+There are numerous other recorded instances of batters retiring out in first-class cricket, particularly in tour matches and warm-up matches; since these matches are generally treated as practice matches, retiring out in these matches is not considered unsporting. In 1993 Graham Gooch, immediately after completing his hundredth first-class century with a six, retired on 105.
+A player who retires hurt and does not return to bat by the end of the innings is not considered out for statistical purposes, though, as substitutes are not permitted to bat, the impact on play is effectively the same as if they had retired out.
+
+Law 34: Hit the ball twice
+If the batter "hits" the ball twice, they are out. The first hit is the ball striking the batter or their bat whilst the second hit is the batter intentionally making separate contact with the ball, not necessarily with the bat (it is therefore possible to be out hitting the ball twice whilst not actually hitting the ball with the bat either time). The batsman is allowed to hit the ball a second time with their bat or body (but not a hand that is not in contact with the bat) if this is performed in order to stop the ball from hitting the stumps.
+No batter has been out hitting the ball twice in Test cricket. There is only one occasion in International cricket where a batter has been out "Hitting the ball twice". Malta opening batter Fanyan Mughal in a Twenty20 International (T20I) match, on August 20, 2023, Romania v Malta at Ilfov County, București.
+
+Law 35: Hit wicket
+If the batter dislodges their own stumps with their body or bat, while in the process of taking a shot or beginning their first run, then they are out. This law does not apply if they avoided a ball thrown back to the wicket by a fielder, or broke the wicket in avoiding a run out.
+This law also applies if part of the batter's equipment is dislodged and hits the stumps: Dwayne Bravo hit Kevin Pietersen in the head with a bouncer and his helmet hit the stumps during the 2007 England vs West Indies Test match at Old Trafford; a topspinner from Richie Benaud once knocked off Joe Solomon's cap, and the cap landed on Solomon's stumps.
+Being out hit-wicket is often seen as a comic method of dismissal. In 1991 Jonathan Agnew and Brian Johnston, commentators on BBC Radio's Test Match Special, got themselves into difficulty while commentating on Ian Botham's dismissal (Botham dislodged his leg bail whilst trying to step over the stumps, having lost his balance in missing a hook shot against Curtly Ambrose), Agnew commenting that he "couldn't quite get his leg over".
+A more recent example of a comic hit-wicket dismissal was during the Headingley Test match in the 2006 test series between England and Pakistan, when Pakistan captain Inzamam-ul-Haq missed a sweep against Monty Panesar, was hit in the midriff by the ball, lost his balance and collapsed on to his stumps (and nearly into wicket-keeper Chris Read).
+
+Law 37: Obstructing the field
+If the batter, by action or by words, obstructs or distracts the fielding side, then they are out. This law now encompasses transgressions that would previously have been covered by handled the ball, which has now been removed from the Laws.
+Only one player has ever been out obstructing the field in a Test match: England's Len Hutton, playing against South Africa at the Oval in London in 1951, knocked a ball away from his stumps but in doing so prevented South African wicket-keeper Russell Endean from completing a catch. By coincidence, Endean was one of the few people to be given out handled the ball in a Test match. In One Day International cricket, eight batters have been given out obstructing the field.
+
+Law 40: Timed out
+An incoming batter is "timed out" if they willfully take more than three minutes to be ready to face the next delivery (or be at the other end if not on strike). If a not out batter is not ready after a break in play, they can also be given out timed out on appeal. In the case of extremely long delays, the umpires may forfeit the match to either team. So far, this method of taking a wicket has never happened in the history of Test cricket and there have only been six occasions in all forms of first-class cricket. 
+Angelo Mathews of Sri Lanka became the first batsman to be dismissed in this fashion in an international fixture, in a group stage match against Bangladesh in the 2023 Cricket World Cup.
+
+Obsolete dismissal types
+Handled the ball
+Before the amendments of the Laws in 2017, there was a separate dismissal type of Handled the ball which is now covered by Obstructing the field.
+If the batter touched the ball with a hand not in contact with the bat for any purpose other than to prevent themselves being injured or, with the approval of the fielding team, to return the ball to a fielder, they were out on appeal. It was considered good etiquette for the fielding team not to appeal if the handling of the ball did not affect the play of the game, although there have been occasions when this etiquette was ignored. Only seven batters have been out handled the ball in the history of Test cricket, and two in One Day Internationals.
+
+See also
+List of cricket terms
+List of unusual dismissals in international cricket
+
+References
+External links
+The Laws of Cricket
+Ten ways of getting out – BBC
+11 different ways in which a batsman can be dismissed – The Guardian
+Rules and regulations of cricket video – WisdomTalkies
