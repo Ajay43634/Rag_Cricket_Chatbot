@@ -26,3 +26,33 @@ This chatbot combines a scraped cricket knowledge base with Claude's language un
 ---
 
 ## 🏗️ Architecture
+## 🏗️ Architecture
+User Question
+↓
+Embed Question (SentenceTransformers)
+↓
+Semantic Search (ChromaDB)
+↓
+Retrieve Relevant Cricket Chunks
+↓
+Build Prompt with Context
+↓
+Claude API (with Web Search fallback)
+↓
+Answer + Sources
+
+---
+
+## 📁 Project Structure
+Rag_chatbot/
+├── app.py                      # Gradio web app
+├── cricket_rag_scraper.ipynb   # Scrapes cricket data from the web
+├── embed_and_store.ipynb       # Embeds and stores chunks in ChromaDB
+├── rag_pipeline.ipynb          # RAG pipeline logic
+├── chroma_db/                  # Vector store with cricket knowledge
+├── cricket_docs/               # Raw scraped cricket documents
+└── requirements.txt            # Python dependencies
+
+---
+
+#
